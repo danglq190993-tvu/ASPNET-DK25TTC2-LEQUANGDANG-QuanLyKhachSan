@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(iconv -f UTF-16LE -t UTF-8 \"D:/tvu-Project/Q.Dang/DamManhLinh/src/scriptDML.sql\")",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git reset *)",
+      "Bash(git rm *)"
+    ]
+  }
+}

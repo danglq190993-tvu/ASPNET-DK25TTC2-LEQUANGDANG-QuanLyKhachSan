@@ -1,0 +1,16 @@
+# Exclude everything by default
+*
+
+# Allow only specific directories and files
+!Progress_Report/
+!Progress_Report/**
+!src/
+!src/**
+!thesis/
+!thesis/**
+!scriptDML.sql
+!README.md
+!.gitignore
+
+# Exclude .vs from src
+src/.vs/
